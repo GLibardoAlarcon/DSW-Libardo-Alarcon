@@ -3,14 +3,11 @@ body {
     font-family: 'roboto', sans-serif;
 
 }
-.contenedor{
-    background: blue;
-    color: chocolate;
-    width: 50%;
-    max-width: 800px;
-    height: 600px;
-}
 h1{
     text-align: center;
-    color: blue;
+    color: rgb(13, 13, 14);
+}
+h2{
+    text-align: center;
+    color:rgb(25, 25, 34);
 }
