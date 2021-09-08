@@ -3,3 +3,10 @@ body {
     font-family: 'roboto', sans-serif;
 
 }
+.contenedor{
+    background: blue;
+    color: chocolate;
+    width: 50%;
+    max-width: 800px;
+    height: 600px;
+}
