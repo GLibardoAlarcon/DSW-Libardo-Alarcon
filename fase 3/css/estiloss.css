@@ -1,3 +1,20 @@
+aside
+{
+    padding: 20px;
+}
+footer
+{
+    padding: 20px;
+}
+article
+{
+    padding: 20px;
+}
+body
+{
+    margin: 20px;
+    padding: 0px;
+}
 *{
     margin: 0px;
     padding: 0px;
